@@ -1,0 +1,16 @@
+
+1.rawdata.zip
+This folder contains olfactory perception data and chemoinformatic features of odorant molecules
+They can also be found at: https://www.synapse.org/#!Synapse:syn3098005
+
+2.sc1_single_node.zip
+This folder contains the submission scripts of the DREAM olfaction prediction challenge
+They can also be found at: https://www.synapse.org/#!Synapse:syn3354800/files/
+
+3.exp_manuscript.zip
+This folder contains scripts to run experiments and generate figures in the olfaction manuscript
+usage:
+unzip exp_manuscript.zip
+cd exp_manuscript # !! read README first!!
+./bash 
+
